@@ -22,7 +22,14 @@ Module 5 is a dive deep into data manipulation and reshaping using the pandas li
   * Changing DataFrames formats
 
 ## Challenge
-Analyze sales data from two different CSV files to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, determine which day and week had the highest sales for women's athletic footwear.
+
+Analyze sales data from two different CSV files to gain insights into:
+
+* Which cities in the U.S. have sold the most athletic wear over two years
+* Which retailers had the greatest total sales for athletic wear
+* Which retailers sold the most women's athletic footwear
+* Which day and week had the highest sales for women's athletic footwear
 
 ## Solution
+
 The solution is in the Jupyter Notebook file '[athletic_sales_analysis.ipynb](https://github.com/JimGile/athletic_sales_analysis/blob/main/athletic_sales_analysis.ipynb)'.
